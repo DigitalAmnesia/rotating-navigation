@@ -1,4 +1,4 @@
 # rotating-navigation
 
 Deployed:
-https://digitalamnesia.github.io/rotating-navigation/
+https://digitalamnesia.github.io/rotating-navigation/index.html
